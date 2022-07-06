@@ -6,4 +6,9 @@ A simple showcase of a Maven project using the Gatling plugin for Maven. Refer t
 
 This project is written in Java
 
+Steps To Follow
+1)https://automationqahub.com/gatling-installation-and-configuration/
+2)https://automationqahub.com/how-to-write-gatling-performance-test-with-java/
+3)https://automationqahub.com/how-to-do-api-load-testing-with-gatling/
+
  
